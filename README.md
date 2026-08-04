@@ -1,4 +1,4 @@
-# 2-Lecture-1-Python-Basics
+# 02-Lecture-1-Python-Basics
 
 
 # 📘 Lecture 1 – Python Basics and Fundamentals
